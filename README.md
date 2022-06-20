@@ -1,5 +1,5 @@
 # Noá Abrahão Kim
-English, Korean, Portuguese, Spanish  
+English, Korean, Portuguese, Spanish, JavaScript
 Books, Games, and Movies  
 Beatboxing Software Engineer in Nashville 😎
   
