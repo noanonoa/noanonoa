@@ -1,6 +1,6 @@
 # Noá Abrahão Kim
 🗣 English, Korean, Portuguese, Spanish  
-💚 Books, Games, Music, and Movies  
+💚 Books, Painting, Games, Music, and Movies  
 👌🏼 Ruby, JavaScript, & Vim  
 👨🏻‍💻 Software Engineer in Nashville  
 
